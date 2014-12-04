@@ -1,0 +1,298 @@
+2014-11-26 15:06:22.630|SPARKSEE[INFO] ** START ** 2014-11-26 15:06:22.630 Software version: 5.1.0
+2014-11-26 15:06:22.630|SPARKSEE[INFO] No license code
+2014-11-26 15:06:22.657|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been created at HelloSparksee.gdb
+2014-11-26 15:06:22.844|GraphPool[INFO] Closed HelloSparksee.gdb
+2014-11-26 15:06:22.845|GraphPool[WARNING] Removed HelloSparksee.gdb.tmp
+2014-11-26 15:06:22.845|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 15:06:22.845
+2014-11-26 17:55:51.633|SPARKSEE[INFO] ** START ** 2014-11-26 17:55:51.632 Software version: 5.1.0
+2014-11-26 17:55:51.633|SPARKSEE[INFO] No license code
+2014-11-26 17:55:51.667|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been created at HelloSparksee.gdb
+2014-11-26 17:55:51.866|GraphPool[INFO] Closed HelloSparksee.gdb
+2014-11-26 17:55:51.867|GraphPool[WARNING] Removed HelloSparksee.gdb.tmp
+2014-11-26 17:55:51.868|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 17:55:51.867
+2014-11-26 17:56:24.554|SPARKSEE[INFO] ** START ** 2014-11-26 17:56:24.554 Software version: 5.1.0
+2014-11-26 17:56:24.554|SPARKSEE[INFO] No license code
+2014-11-26 17:56:24.561|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been created at HelloSparksee.gdb
+2014-11-26 17:56:24.761|GraphPool[INFO] Closed HelloSparksee.gdb
+2014-11-26 17:56:24.762|GraphPool[WARNING] Removed HelloSparksee.gdb.tmp
+2014-11-26 17:56:24.762|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 17:56:24.762
+2014-11-26 17:59:39.160|SPARKSEE[INFO] ** START ** 2014-11-26 17:59:39.160 Software version: 5.1.0
+2014-11-26 17:59:39.160|SPARKSEE[INFO] No license code
+2014-11-26 17:59:39.169|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been created at HelloSparksee.gdb
+2014-11-26 17:59:39.368|GraphPool[INFO] Closed HelloSparksee.gdb
+2014-11-26 17:59:39.369|GraphPool[WARNING] Removed HelloSparksee.gdb.tmp
+2014-11-26 17:59:39.370|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 17:59:39.369
+2014-11-26 18:05:19.965|SPARKSEE[INFO] ** START ** 2014-11-26 18:05:19.965 Software version: 5.1.0
+2014-11-26 18:05:19.965|SPARKSEE[INFO] No license code
+2014-11-26 18:05:19.992|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been opened at HelloSparksee.gdb
+2014-11-26 18:05:20.192|GraphPool[INFO] Closed HelloSparksee.gdb
+2014-11-26 18:05:20.194|GraphPool[WARNING] Removed HelloSparksee.gdb.tmp
+2014-11-26 18:05:20.194|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 18:05:20.194
+2014-11-26 18:07:11.573|SPARKSEE[INFO] ** START ** 2014-11-26 18:07:11.573 Software version: 5.1.0
+2014-11-26 18:07:11.573|SPARKSEE[INFO] No license code
+2014-11-26 18:07:11.588|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been created at HelloSparksee.gdb
+2014-11-26 18:07:11.788|GraphPool[INFO] Closed HelloSparksee.gdb
+2014-11-26 18:07:11.789|GraphPool[WARNING] Removed HelloSparksee.gdb.tmp
+2014-11-26 18:07:11.789|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 18:07:11.789
+2014-11-26 18:07:39.261|SPARKSEE[INFO] ** START ** 2014-11-26 18:07:39.261 Software version: 5.1.0
+2014-11-26 18:07:39.261|SPARKSEE[INFO] No license code
+2014-11-26 18:07:39.267|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been opened at HelloSparksee.gdb
+2014-11-26 18:07:39.468|GraphPool[INFO] Closed HelloSparksee.gdb
+2014-11-26 18:07:39.469|GraphPool[WARNING] Removed HelloSparksee.gdb.tmp
+2014-11-26 18:07:39.469|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 18:07:39.469
+2014-11-26 18:10:21.082|SPARKSEE[INFO] ** START ** 2014-11-26 18:10:21.082 Software version: 5.1.0
+2014-11-26 18:10:21.082|SPARKSEE[INFO] No license code
+2014-11-26 18:10:21.099|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been opened at HelloSparksee.gdb
+2014-11-26 18:10:21.099|Tx[SEVERE] NewNodeType not allowed in read only mode
+2014-11-26 18:11:10.751|SPARKSEE[INFO] ** START ** 2014-11-26 18:11:10.751 Software version: 5.1.0
+2014-11-26 18:11:10.751|SPARKSEE[INFO] No license code
+2014-11-26 18:11:10.764|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been created at HelloSparksee.gdb
+2014-11-26 18:11:10.965|GraphPool[INFO] Closed HelloSparksee.gdb
+2014-11-26 18:11:10.967|GraphPool[WARNING] Removed HelloSparksee.gdb.tmp
+2014-11-26 18:11:10.967|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 18:11:10.967
+2014-11-26 18:21:49.783|SPARKSEE[INFO] ** START ** 2014-11-26 18:21:49.783 Software version: 5.1.0
+2014-11-26 18:21:49.783|SPARKSEE[INFO] No license code
+2014-11-26 18:21:49.825|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been created at HelloSparksee.gdb
+2014-11-26 18:21:50.024|GraphPool[INFO] Closed HelloSparksee.gdb
+2014-11-26 18:21:50.025|GraphPool[WARNING] Removed HelloSparksee.gdb.tmp
+2014-11-26 18:21:50.025|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 18:21:50.025
+2014-11-26 18:22:29.224|SPARKSEE[INFO] ** START ** 2014-11-26 18:22:29.224 Software version: 5.1.0
+2014-11-26 18:22:29.224|SPARKSEE[INFO] No license code
+2014-11-26 18:22:29.232|SPARKSEE[INFO] GraphPool 'HelloSparksee' has been opened at HelloSparksee.gdb
+2014-11-26 18:22:29.232|Tx[SEVERE] NewNodeType not allowed in read only mode
+2014-11-26 18:33:37.660|SPARKSEE[INFO] ** START ** 2014-11-26 18:33:37.660 Software version: 5.1.0
+2014-11-26 18:33:37.660|SPARKSEE[INFO] No license code
+2014-11-26 18:33:37.686|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-26 18:33:37.879|GraphPool[INFO] Closed tg.gdb
+2014-11-26 18:33:37.880|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-26 18:33:37.880|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 18:33:37.880
+2014-11-26 18:33:59.900|SPARKSEE[INFO] ** START ** 2014-11-26 18:33:59.900 Software version: 5.1.0
+2014-11-26 18:33:59.900|SPARKSEE[INFO] No license code
+2014-11-26 18:33:59.907|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-26 18:33:59.907|Tx[SEVERE] NewNodeType not allowed in read only mode
+2014-11-26 18:57:05.239|SPARKSEE[INFO] ** START ** 2014-11-26 18:57:05.239 Software version: 5.1.0
+2014-11-26 18:57:05.239|SPARKSEE[INFO] No license code
+2014-11-26 18:57:05.258|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-26 18:57:05.259|Graph[SEVERE] The new node type  "TATA" can not be created because it already exists.
+2014-11-26 18:58:11.312|SPARKSEE[INFO] ** START ** 2014-11-26 18:58:11.312 Software version: 5.1.0
+2014-11-26 18:58:11.312|SPARKSEE[INFO] No license code
+2014-11-26 18:58:11.322|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-26 18:58:11.526|GraphPool[INFO] Closed tg.gdb
+2014-11-26 18:58:11.528|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-26 18:58:11.528|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 18:58:11.528
+2014-11-26 18:59:31.146|SPARKSEE[INFO] ** START ** 2014-11-26 18:59:31.146 Software version: 5.1.0
+2014-11-26 18:59:31.146|SPARKSEE[INFO] No license code
+2014-11-26 18:59:31.178|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-26 18:59:31.379|GraphPool[INFO] Closed tg.gdb
+2014-11-26 18:59:31.383|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-26 18:59:31.383|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 18:59:31.383
+2014-11-26 19:00:33.836|SPARKSEE[INFO] ** START ** 2014-11-26 19:00:33.836 Software version: 5.1.0
+2014-11-26 19:00:33.836|SPARKSEE[INFO] No license code
+2014-11-26 19:00:34.389|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-26 19:00:34.697|GraphPool[INFO] Closed tg.gdb
+2014-11-26 19:00:34.700|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-26 19:00:34.700|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 19:00:34.700
+2014-11-26 19:03:35.433|SPARKSEE[INFO] ** START ** 2014-11-26 19:03:35.433 Software version: 5.1.0
+2014-11-26 19:03:35.433|SPARKSEE[INFO] No license code
+2014-11-26 19:03:35.473|RM[INFO] RECOVERY ENABLED
+2014-11-26 19:03:35.473|RM[INFO] RECOVERY DISABLED
+2014-11-26 19:03:35.474|RM[INFO] REDO PHASE: 0 OPERATIONS
+2014-11-26 19:03:35.474|RM[INFO] RECOVERY ENABLED
+2014-11-26 19:03:35.474|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-26 19:03:35.474|Tx[SEVERE] NewNodeType not allowed in read only mode
+2014-11-26 19:04:09.338|SPARKSEE[INFO] ** START ** 2014-11-26 19:04:09.338 Software version: 5.1.0
+2014-11-26 19:04:09.339|SPARKSEE[INFO] No license code
+2014-11-26 19:04:09.358|RM[INFO] RECOVERY ENABLED
+2014-11-26 19:04:09.358|RM[INFO] RECOVERY DISABLED
+2014-11-26 19:04:09.361|RM[INFO] REDO PHASE: 0 OPERATIONS
+2014-11-26 19:04:09.361|RM[INFO] RECOVERY ENABLED
+2014-11-26 19:04:09.361|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-26 19:04:09.558|GraphPool[INFO] Closed tg.gdb
+2014-11-26 19:04:09.560|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-26 19:04:09.560|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 19:04:09.560
+2014-11-26 19:04:34.635|SPARKSEE[INFO] ** START ** 2014-11-26 19:04:34.635 Software version: 5.1.0
+2014-11-26 19:04:34.635|SPARKSEE[INFO] No license code
+2014-11-26 19:04:34.736|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-26 19:04:34.736|Tx[SEVERE] NewNodeType not allowed in read only mode
+2014-11-26 19:04:49.308|SPARKSEE[INFO] ** START ** 2014-11-26 19:04:49.308 Software version: 5.1.0
+2014-11-26 19:04:49.308|SPARKSEE[INFO] No license code
+2014-11-26 19:04:49.314|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-26 19:04:49.515|GraphPool[INFO] Closed tg.gdb
+2014-11-26 19:04:49.516|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-26 19:04:49.516|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-26 19:04:49.516
+2014-11-27 12:52:15.386|SPARKSEE[INFO] ** START ** 2014-11-27 12:52:15.386 Software version: 5.1.0
+2014-11-27 12:52:15.386|SPARKSEE[INFO] No license code
+2014-11-27 12:52:15.407|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 12:52:15.407|Graph[SEVERE] The new node type  "Trolo" can not be created because it already exists.
+2014-11-27 12:53:00.535|SPARKSEE[INFO] ** START ** 2014-11-27 12:53:00.535 Software version: 5.1.0
+2014-11-27 12:53:00.535|SPARKSEE[INFO] No license code
+2014-11-27 12:53:00.542|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 12:53:00.542|Tx[SEVERE] NewNodeType not allowed in read only mode
+2014-11-27 12:53:25.224|SPARKSEE[INFO] ** START ** 2014-11-27 12:53:25.224 Software version: 5.1.0
+2014-11-27 12:53:25.225|SPARKSEE[INFO] No license code
+2014-11-27 12:53:25.237|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 12:53:25.237|Graph[SEVERE] The new node type  "Trolo" can not be created because it already exists.
+2014-11-27 12:54:22.707|SPARKSEE[INFO] ** START ** 2014-11-27 12:54:22.707 Software version: 5.1.0
+2014-11-27 12:54:22.707|SPARKSEE[INFO] No license code
+2014-11-27 12:54:22.724|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 12:54:22.924|GraphPool[INFO] Closed tg.gdb
+2014-11-27 12:54:22.926|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 12:54:22.926|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 12:54:22.926
+2014-11-27 12:54:41.899|SPARKSEE[INFO] ** START ** 2014-11-27 12:54:41.899 Software version: 5.1.0
+2014-11-27 12:54:41.899|SPARKSEE[INFO] No license code
+2014-11-27 12:54:41.908|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 12:54:41.908|Graph[SEVERE] The new node type  "Trolo" can not be created because it already exists.
+2014-11-27 13:06:38.232|SPARKSEE[INFO] ** START ** 2014-11-27 13:06:38.232 Software version: 5.1.0
+2014-11-27 13:06:38.232|SPARKSEE[INFO] No license code
+2014-11-27 13:06:38.248|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 13:06:38.248|Graph[SEVERE] The new node type  "Trolo" can not be created because it already exists.
+2014-11-27 13:07:18.889|SPARKSEE[INFO] ** START ** 2014-11-27 13:07:18.889 Software version: 5.1.0
+2014-11-27 13:07:18.889|SPARKSEE[INFO] No license code
+2014-11-27 13:07:18.898|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 13:07:18.898|Graph[SEVERE] The new node type  "Trolo" can not be created because it already exists.
+2014-11-27 13:07:19.097|GraphPool[INFO] Closed tg.gdb
+2014-11-27 13:07:19.098|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 13:07:19.098|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 13:07:19.098
+2014-11-27 13:12:36.059|SPARKSEE[INFO] ** START ** 2014-11-27 13:12:36.059 Software version: 5.1.0
+2014-11-27 13:12:36.059|SPARKSEE[INFO] No license code
+2014-11-27 13:12:36.072|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 13:12:36.072|Graph[SEVERE] The new node type  "Trolo" can not be created because it already exists.
+2014-11-27 13:12:36.272|GraphPool[INFO] Closed tg.gdb
+2014-11-27 13:12:36.273|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 13:12:36.273|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 13:12:36.273
+2014-11-27 13:14:03.990|SPARKSEE[INFO] ** START ** 2014-11-27 13:14:03.990 Software version: 5.1.0
+2014-11-27 13:14:03.990|SPARKSEE[INFO] No license code
+2014-11-27 13:14:04.008|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 13:14:04.008|Graph[SEVERE] The new node type  "Trolo" can not be created because it already exists.
+2014-11-27 13:14:04.208|GraphPool[INFO] Closed tg.gdb
+2014-11-27 13:14:04.209|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 13:14:04.209|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 13:14:04.209
+2014-11-27 13:16:05.769|SPARKSEE[INFO] ** START ** 2014-11-27 13:16:05.769 Software version: 5.1.0
+2014-11-27 13:16:05.770|SPARKSEE[INFO] No license code
+2014-11-27 13:16:05.776|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 13:16:05.777|Graph[SEVERE] The new node type  "Trolo" can not be created because it already exists.
+2014-11-27 13:16:05.976|GraphPool[INFO] Closed tg.gdb
+2014-11-27 13:16:05.978|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 13:16:05.978|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 13:16:05.978
+2014-11-27 13:18:19.318|SPARKSEE[INFO] ** START ** 2014-11-27 13:18:19.317 Software version: 5.1.0
+2014-11-27 13:18:19.318|SPARKSEE[INFO] No license code
+2014-11-27 13:18:19.325|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 13:18:19.326|Graph[SEVERE] The new node type  "Trolo" can not be created because it already exists.
+2014-11-27 13:18:19.525|GraphPool[INFO] Closed tg.gdb
+2014-11-27 13:18:19.527|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 13:18:19.527|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 13:18:19.527
+2014-11-27 13:36:11.678|SPARKSEE[INFO] ** START ** 2014-11-27 13:36:11.678 Software version: 5.1.0
+2014-11-27 13:36:11.678|SPARKSEE[INFO] No license code
+2014-11-27 13:36:11.695|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 13:36:11.897|GraphPool[INFO] Closed tg.gdb
+2014-11-27 13:36:11.899|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 13:36:11.899|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 13:36:11.899
+2014-11-27 13:36:39.543|SPARKSEE[INFO] ** START ** 2014-11-27 13:36:39.543 Software version: 5.1.0
+2014-11-27 13:36:39.543|SPARKSEE[INFO] No license code
+2014-11-27 13:36:39.544|GraphPool[SEVERE] Error loading the file "tg.gdb".
+2014-11-27 14:05:28.284|SPARKSEE[INFO] ** START ** 2014-11-27 14:05:28.284 Software version: 5.1.0
+2014-11-27 14:05:28.284|SPARKSEE[INFO] No license code
+2014-11-27 14:05:28.284|GraphPool[SEVERE] Error loading the file "tg.gdb".
+2014-11-27 14:05:28.284|GraphPool[SEVERE] Error loading the file "tg.gdb".
+2014-11-27 14:05:57.556|SPARKSEE[INFO] ** START ** 2014-11-27 14:05:57.556 Software version: 5.1.0
+2014-11-27 14:05:57.556|SPARKSEE[INFO] No license code
+2014-11-27 14:05:57.557|GraphPool[SEVERE] Error loading the file "tg.gdb".
+2014-11-27 14:05:57.564|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 14:09:02.235|SPARKSEE[INFO] ** START ** 2014-11-27 14:09:02.234 Software version: 5.1.0
+2014-11-27 14:09:02.235|SPARKSEE[INFO] No license code
+2014-11-27 14:09:02.237|Storage[SEVERE] Error reading the database file.
+2014-11-27 14:09:02.237|GraphPool[SEVERE] The storage can not be loaded.
+2014-11-27 14:09:02.243|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 14:09:02.444|GraphPool[INFO] Closed tg.gdb
+2014-11-27 14:09:02.445|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 14:09:02.445|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 14:09:02.445
+2014-11-27 14:10:08.660|SPARKSEE[INFO] ** START ** 2014-11-27 14:10:08.660 Software version: 5.1.0
+2014-11-27 14:10:08.660|SPARKSEE[INFO] No license code
+2014-11-27 14:10:08.670|SPARKSEE[INFO] GraphPool 'tg' has been opened at tg.gdb
+2014-11-27 14:10:08.870|GraphPool[INFO] Closed tg.gdb
+2014-11-27 14:10:08.872|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 14:10:08.872|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 14:10:08.872
+2014-11-27 14:35:16.755|SPARKSEE[INFO] ** START ** 2014-11-27 14:35:16.755 Software version: 5.1.0
+2014-11-27 14:35:16.755|SPARKSEE[INFO] No license code
+2014-11-27 14:35:16.763|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 14:35:16.963|GraphPool[INFO] Closed tg.gdb
+2014-11-27 14:35:16.964|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 14:35:16.964|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 14:35:16.964
+2014-11-27 15:20:52.053|SPARKSEE[INFO] ** START ** 2014-11-27 15:20:52.053 Software version: 5.1.0
+2014-11-27 15:20:52.053|SPARKSEE[INFO] No license code
+2014-11-27 15:20:52.062|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 15:20:52.262|GraphPool[INFO] Closed tg.gdb
+2014-11-27 15:20:52.264|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 15:20:52.264|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 15:20:52.264
+2014-11-27 15:21:51.944|SPARKSEE[INFO] ** START ** 2014-11-27 15:21:51.944 Software version: 5.1.0
+2014-11-27 15:21:51.944|SPARKSEE[INFO] No license code
+2014-11-27 15:21:51.954|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 15:21:52.154|GraphPool[INFO] Closed tg.gdb
+2014-11-27 15:21:52.155|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 15:21:52.155|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 15:21:52.155
+2014-11-27 18:13:32.010|SPARKSEE[INFO] ** START ** 2014-11-27 18:13:32.009 Software version: 5.1.0
+2014-11-27 18:13:32.010|SPARKSEE[INFO] No license code
+2014-11-27 18:13:32.044|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 18:13:32.229|GraphPool[INFO] Closed tg.gdb
+2014-11-27 18:13:32.230|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 18:13:32.230|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 18:13:32.230
+2014-11-27 19:22:59.198|SPARKSEE[INFO] ** START ** 2014-11-27 19:22:59.198 Software version: 5.1.0
+2014-11-27 19:22:59.199|SPARKSEE[INFO] No license code
+2014-11-27 19:22:59.232|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 19:22:59.420|GraphPool[INFO] Closed tg.gdb
+2014-11-27 19:22:59.421|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 19:22:59.421|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 19:22:59.421
+2014-11-27 19:35:15.644|SPARKSEE[INFO] ** START ** 2014-11-27 19:35:15.644 Software version: 5.1.0
+2014-11-27 19:35:15.644|SPARKSEE[INFO] No license code
+2014-11-27 19:35:15.667|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-27 19:35:15.854|GraphPool[INFO] Closed tg.gdb
+2014-11-27 19:35:15.856|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-27 19:35:15.856|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-27 19:35:15.856
+2014-11-28 13:07:25.440|SPARKSEE[INFO] ** START ** 2014-11-28 13:07:25.440 Software version: 5.1.0
+2014-11-28 13:07:25.440|SPARKSEE[INFO] No license code
+2014-11-28 13:07:25.474|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-28 13:07:25.475|Graph[SEVERE] The type of attribute (8) is not TEXT.
+2014-11-28 13:08:12.841|SPARKSEE[INFO] ** START ** 2014-11-28 13:08:12.841 Software version: 5.1.0
+2014-11-28 13:08:12.841|SPARKSEE[INFO] No license code
+2014-11-28 13:08:12.848|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-28 13:08:12.848|Graph[SEVERE] A new attribute with a large data type can only be BASIC.
+2014-11-28 13:12:04.544|SPARKSEE[INFO] ** START ** 2014-11-28 13:12:04.544 Software version: 5.1.0
+2014-11-28 13:12:04.544|SPARKSEE[INFO] No license code
+2014-11-28 13:12:04.554|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-28 13:12:04.753|GraphPool[INFO] Closed tg.gdb
+2014-11-28 13:12:04.755|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-28 13:12:04.755|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-28 13:12:04.755
+2014-11-28 13:34:03.183|SPARKSEE[INFO] ** START ** 2014-11-28 13:34:03.183 Software version: 5.1.0
+2014-11-28 13:34:03.183|SPARKSEE[INFO] No license code
+2014-11-28 13:34:03.241|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-28 13:34:03.417|GraphPool[INFO] Closed tg.gdb
+2014-11-28 13:34:03.419|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-28 13:34:03.419|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-28 13:34:03.419
+2014-11-28 13:34:19.839|SPARKSEE[INFO] ** START ** 2014-11-28 13:34:19.839 Software version: 5.1.0
+2014-11-28 13:34:19.839|SPARKSEE[INFO] No license code
+2014-11-28 13:34:19.847|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-28 13:34:19.847|Tx[SEVERE] The transaction can not be closed.
+2014-11-28 13:35:34.994|SPARKSEE[INFO] ** START ** 2014-11-28 13:35:34.994 Software version: 5.1.0
+2014-11-28 13:35:34.994|SPARKSEE[INFO] No license code
+2014-11-28 13:35:35.002|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-28 13:35:35.207|GraphPool[INFO] Closed tg.gdb
+2014-11-28 13:35:35.208|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-28 13:35:35.208|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-28 13:35:35.208
+2014-11-28 13:35:56.906|SPARKSEE[INFO] ** START ** 2014-11-28 13:35:56.906 Software version: 5.1.0
+2014-11-28 13:35:56.906|SPARKSEE[INFO] No license code
+2014-11-28 13:35:56.913|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-28 13:35:57.113|GraphPool[INFO] Closed tg.gdb
+2014-11-28 13:35:57.115|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-28 13:35:57.115|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-28 13:35:57.115
+2014-11-28 13:36:12.578|SPARKSEE[INFO] ** START ** 2014-11-28 13:36:12.578 Software version: 5.1.0
+2014-11-28 13:36:12.578|SPARKSEE[INFO] No license code
+2014-11-28 13:36:12.585|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-28 13:36:12.785|GraphPool[INFO] Closed tg.gdb
+2014-11-28 13:36:12.786|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-28 13:36:12.786|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-28 13:36:12.786
+2014-11-28 13:36:26.546|SPARKSEE[INFO] ** START ** 2014-11-28 13:36:26.546 Software version: 5.1.0
+2014-11-28 13:36:26.546|SPARKSEE[INFO] No license code
+2014-11-28 13:36:26.554|SPARKSEE[INFO] GraphPool 'tg' has been created at tg.gdb
+2014-11-28 13:36:26.754|GraphPool[INFO] Closed tg.gdb
+2014-11-28 13:36:26.756|GraphPool[WARNING] Removed tg.gdb.tmp
+2014-11-28 13:36:26.756|SPARKSEE[INFO] ** SHUTDOWN ** 2014-11-28 13:36:26.756
